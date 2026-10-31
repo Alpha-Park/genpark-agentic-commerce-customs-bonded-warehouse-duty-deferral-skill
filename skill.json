@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-customs-bonded-warehouse-duty-deferral-skill",
+  "version": "1.0.0",
+  "title": "Customs Bonded Warehouse Duty Deferral & Cash Flow Skill",
+  "category": "Agentic Commerce (Trade Finance & Customs Warehousing)",
+  "description": "Models cash-flow time-value of money (TVM) and inventory carrying cost savings from utilizing bonded warehouses (Class 2 / Class 3) to defer customs duties until final entry.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "model_bonded_warehouse_duty_deferral"
+  ],
+  "dependencies": []
+}
